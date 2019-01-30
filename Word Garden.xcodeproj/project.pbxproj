@@ -21,7 +21,6 @@
 		25F7970E220129740050F099 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		25F79710220129750050F099 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		25F79713220129750050F099 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		25F79715220129750050F099 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +58,6 @@
 				25F7970D220129740050F099 /* Main.storyboard */,
 				25F79710220129750050F099 /* Assets.xcassets */,
 				25F79712220129750050F099 /* LaunchScreen.storyboard */,
-				25F79715220129750050F099 /* Info.plist */,
 			);
 			path = "Word Garden";
 			sourceTree = "<group>";
